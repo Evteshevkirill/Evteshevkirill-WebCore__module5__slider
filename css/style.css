@@ -131,7 +131,6 @@ body {
             mask-image: none;
   }
   .js-slider__wrapper {
-    display: flex;
     overflow: hidden;
     flex-wrap: wrap;
     gap: 16px 24px;
